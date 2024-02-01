@@ -1,2 +1,2 @@
 # A02_Intro
-Computer Science Assignment
+Intro to Computer Science Assignment
